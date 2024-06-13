@@ -341,7 +341,7 @@
 
 .elementor-76 .elementor-element.elementor-element-19701df1>.elementor-background-overlay {
     background-color: transparent;
-    background-image: linear-gradient(141deg, #EBFFFB 0%, #BDD2FF 32%);
+    background-image: linear-gradient(141deg, #EBFFFB 0%, #d6d6d6 32%);
     opacity: 0.5;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -365,7 +365,7 @@
 
 .elementor-76 .elementor-element.elementor-element-363ec1d5 {
     text-align: left;
-    color: #07374D;
+    color: #000;
 }
 
 .elementor-bc-flex-widget .elementor-76 .elementor-element.elementor-element-411c2d14.elementor-column .elementor-widget-wrap {
@@ -382,7 +382,7 @@
 }
 
 .elementor-76 .elementor-element.elementor-element-192ac897 .elementor-heading-title {
-    color: #07374D;
+    color: #000;
     font-family: "Poppins", Sans-serif;
     font-size: 17px;
     font-weight: 600;
@@ -394,12 +394,12 @@
 }
 
 .elementor-76 .elementor-element.elementor-element-38ae9004 .elementor-icon-list-icon i {
-    color: #07374D;
+    color: #000;
     transition: color 0.3s;
 }
 
 .elementor-76 .elementor-element.elementor-element-38ae9004 .elementor-icon-list-icon svg {
-    fill: #07374D;
+    fill: #000;
     transition: fill 0.3s;
 }
 
@@ -418,7 +418,7 @@
 }
 
 .elementor-76 .elementor-element.elementor-element-38ae9004 .elementor-icon-list-text {
-    color: #07374D;
+    color: #000;
     transition: color 0.3s;
 }
 
@@ -440,19 +440,19 @@
 }
 
 .elementor-76 .elementor-element.elementor-element-69d00cc .elementor-heading-title {
-    color: #07374D;
+    color: #000;
     font-family: "Poppins", Sans-serif;
     font-size: 17px;
     font-weight: 600;
 }
 
 .elementor-76 .elementor-element.elementor-element-4cd7f98d .elementor-icon-list-icon i {
-    color: #07374D;
+    color: #000;
     transition: color 0.3s;
 }
 
 .elementor-76 .elementor-element.elementor-element-4cd7f98d .elementor-icon-list-icon svg {
-    fill: #07374D;
+    fill: #000;
     transition: fill 0.3s;
 }
 
@@ -469,7 +469,7 @@
 }
 
 .elementor-76 .elementor-element.elementor-element-4cd7f98d .elementor-icon-list-text {
-    color: #07374D;
+    color: #000;
     transition: color 0.3s;
 }
 
