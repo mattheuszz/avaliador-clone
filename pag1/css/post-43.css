@@ -166,7 +166,7 @@
 .elementor-43 .elementor-element.elementor-element-2439baf7>.elementor-widget-container {
     margin: 0% 35% 0% 35%;
     padding: 2% 0% 2% 0%;
-    background-color: #E8F1FC;
+    background-color: #00000005;;
     border-style: solid;
     border-width: 1px 00 1px 1px;
     border-color: #000;
@@ -218,7 +218,7 @@
 
 .elementor-43 .elementor-element.elementor-element-48c10744 {
     text-align: left;
-    color: #07374D;
+    color: #000;
 }
 
 .elementor-bc-flex-widget .elementor-43 .elementor-element.elementor-element-1f4d3849.elementor-column .elementor-widget-wrap {
@@ -235,7 +235,7 @@
 }
 
 .elementor-43 .elementor-element.elementor-element-6ad0234d .elementor-heading-title {
-    color: #07374D;
+    color: #000;
     font-family: "Poppins", Sans-serif;
     font-size: 17px;
     font-weight: 600;
@@ -247,12 +247,12 @@
 }
 
 .elementor-43 .elementor-element.elementor-element-34b6be07 .elementor-icon-list-icon i {
-    color: #07374D;
+    color: #000;
     transition: color 0.3s;
 }
 
 .elementor-43 .elementor-element.elementor-element-34b6be07 .elementor-icon-list-icon svg {
-    fill: #07374D;
+    fill: #000;
     transition: fill 0.3s;
 }
 
@@ -271,7 +271,7 @@
 }
 
 .elementor-43 .elementor-element.elementor-element-34b6be07 .elementor-icon-list-text {
-    color: #07374D;
+    color: #000;
     transition: color 0.3s;
 }
 
@@ -293,19 +293,19 @@
 }
 
 .elementor-43 .elementor-element.elementor-element-13bf1e86 .elementor-heading-title {
-    color: #07374D;
+    color: #000;
     font-family: "Poppins", Sans-serif;
     font-size: 17px;
     font-weight: 600;
 }
 
 .elementor-43 .elementor-element.elementor-element-57a79c9c .elementor-icon-list-icon i {
-    color: #07374D;
+    color: #000;
     transition: color 0.3s;
 }
 
 .elementor-43 .elementor-element.elementor-element-57a79c9c .elementor-icon-list-icon svg {
-    fill: #07374D;
+    fill: #000;
     transition: fill 0.3s;
 }
 
@@ -322,7 +322,7 @@
 }
 
 .elementor-43 .elementor-element.elementor-element-57a79c9c .elementor-icon-list-text {
-    color: #07374D;
+    color: #000;
     transition: color 0.3s;
 }
 
