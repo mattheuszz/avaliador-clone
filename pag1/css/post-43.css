@@ -1,7 +1,7 @@
 .elementor-43 .elementor-element.elementor-element-7b6a7e97:not(.elementor-motion-effects-element-type-background),
 .elementor-43 .elementor-element.elementor-element-7b6a7e97>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #2B6AE5 0%, #01AE74 100%);
+    background-image: linear-gradient(180deg, #000 0%, #01AE74 100%);
 }
 
 .elementor-43 .elementor-element.elementor-element-7b6a7e97 {
@@ -159,7 +159,7 @@
 }
 
 .elementor-43 .elementor-element.elementor-element-2439baf7 .elementor-icon-list-text {
-    color: #0F59FF;
+    color: #000;
     transition: color 0.3s;
 }
 
@@ -169,7 +169,7 @@
     background-color: #E8F1FC;
     border-style: solid;
     border-width: 1px 00 1px 1px;
-    border-color: #;
+    border-color: #000;
     border-radius: 10px 10px 10px 10px;
 }
 
